@@ -1,0 +1,16 @@
+.cover{
+    background: linear-gradient(45deg, #87adfe, #ff77cd);
+    
+}
+
+.inner{
+    border-radius: 20px;
+    margin-top: 130px;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+ .but{
+     width: 100%;
+}
